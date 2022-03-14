@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/ripple</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.996078 0 0 0 0 0.996078 0 0 0 0 0.996078 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/ripple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy" fill="#18191C" cx="10" cy="10" r="10"></circle>
+        <g filter="url(#filter-1)" id="icon_ripple">
+            <g transform="translate(4.000000, 5.000000)">
+                <path d="M5.61407367,2.1913704 L2.82352941,4.94117647 L9.17647059,4.94117647 L6.38592633,2.30360738 C6.26717977,2.07913342 5.79219351,2.07913342 5.61407367,2.1913704 Z" id="Path"></path>
+                <path d="M5.60672269,8.30117647 C5.8487395,8.52705882 6.1512605,8.52705882 6.33277311,8.30117647 L9.17647059,5.64705882 L2.82352941,5.64705882 L5.60672269,8.30117647 Z" id="Path"></path>
+                <path d="M5.6119403,7.75609756 C5.85074627,7.51506456 6.14925373,7.51506456 6.32835821,7.75609756 L9.13432836,10.5882353 L12,10.5882353 L7.82089552,6.37015782 C6.86567164,5.40602582 5.25373134,5.40602582 4.17910448,6.37015782 L0,10.5882353 L2.80597015,10.5882353 L5.6119403,7.75609756 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M6.42,2.85754784 C6.24,3.09567682 5.88,3.09567682 5.7,2.85754784 L2.76,0 L0,0 L4.2,4.16725726 C4.68,4.70304748 5.28,4.94117647 6,4.94117647 C6.72,4.94117647 7.32,4.70304748 7.8,4.22678951 L12,0 L9.18,0 L6.42,2.85754784 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

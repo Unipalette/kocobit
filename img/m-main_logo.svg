@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="40px" viewBox="0 0 80 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>main_logo</title>
+    <g id="index" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="GmarketSansBold, Gmarket Sans" font-size="18" font-weight="bold" line-spacing="40">
+        <g id="index_mobile" transform="translate(-15.000000, -5.000000)">
+            <g id="main_logo" transform="translate(15.000000, 5.000000)">
+                <text id="kocobit.">
+                    <tspan x="0" y="14" fill="#18191C">kocobit</tspan>
+                    <tspan x="74.52" y="14" fill="#0F77F6">.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
