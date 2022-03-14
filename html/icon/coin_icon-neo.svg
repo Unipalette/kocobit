@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.996078 0 0 0 0 0.996078 0 0 0 0 0.996078 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="index" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="index_pc" transform="translate(-361.000000, -1798.000000)">
+            <g id="cont_left" transform="translate(361.000000, 747.500000)">
+                <g id="con3_info" transform="translate(0.000000, 745.000000)">
+                    <g id="con3_art3" transform="translate(0.000000, 280.000000)">
+                        <g id="coin_tit" transform="translate(0.500000, 20.000000)">
+                            <g id="Group-6" transform="translate(0.000000, 6.000000)">
+                                <rect id="coin_icon_frame" fill="#18191C" x="0" y="0" width="20" height="20" rx="10"></rect>
+                                <g id="icon/wiken" filter="url(#filter-1)">
+                                    <g id="Group" transform="translate(4.000000, 3.000000)" fill="#858585" fill-rule="nonzero">
+                                        <polygon id="Path" points="0 2.73980372 4.92024722 5 12 2.29447157 7.11492471 0"></polygon>
+                                        <polygon id="Path" points="0 3.5 5 5.70321195 5 13.5 0 11.2286928"></polygon>
+                                        <polygon id="Path" points="7 4.79382042 12 3 12 11 7 8.57853614"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

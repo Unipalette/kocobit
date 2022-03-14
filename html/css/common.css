@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* 컬러 시스템 */
+:root {
+  --color-black: #18191c;
+  --color-white: #fefefe;
+  --color-blue_light: #4f99e2;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/clay</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.996078 0 0 0 0 0.996078 0 0 0 0 0.996078 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/clay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-2" fill="#18191C" cx="10" cy="10" r="10"></circle>
+        <g filter="url(#filter-1)" id="icon_clay">
+            <g transform="translate(4.000000, 4.000000)">
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="10.0421053 1.57894737 6.44210526 0 2.77894737 8.77894737"></polygon>
+                <path d="M10.5473684,2.02105263 L6.37894737,6.18947368 L10.4210526,9.85263158 C13.2,6.56842105 11.2421053,3.03157895 10.5473684,2.02105263 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M5.62105263,0.126315789 L0,6 C0.126315789,8.14736842 1.01052632,9.34736842 1.57894737,9.97894737 L5.62105263,0.126315789 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="5.87368421 6.69473684 2.14736842 10.4842105 5.93684211 12 9.78947368 10.2315789"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_wrap</title>
+    <g id="index" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="index_mobile" transform="translate(-18.000000, -2172.000000)">
+            <g id="con6-service" transform="translate(0.000000, 2034.000000)">
+                <g id="art2" transform="translate(15.000000, 120.000000)">
+                    <g id="icon_wrap" transform="translate(3.000000, 18.000000)">
+                        <rect id="icon_bg" fill="#FEFEFE" x="0" y="0" width="24" height="24"></rect>
+                        <g id="icon-up" transform="translate(12.041182, 12.000000) rotate(-180.000000) translate(-12.041182, -12.000000) translate(3.000000, 0.000000)" fill-rule="nonzero">
+                            <polygon id="Path" fill="#4F8BFE" points="17.6650543 9.06471434 9.03961302 0 0.417309452 9.06471434 6.20316381 9.06471434 6.20316381 17.5866126 11.8760622 17.5866126 11.8760622 9.06471434"></polygon>
+                            <rect id="Rectangle" fill="#CDDEFF" x="-1.11472256e-15" y="19.9586874" width="18.0823637" height="4.04131259"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

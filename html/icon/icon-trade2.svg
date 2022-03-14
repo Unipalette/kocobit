@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-trade</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.094118 0 0 0 0 0.098039 0 0 0 0 0.109804 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.094118 0 0 0 0 0.098039 0 0 0 0 0.109804 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="main_cont_right_art1(m)" transform="translate(-264.000000, -19.000000)">
+            <g id="trade" transform="translate(255.000000, 10.000000)">
+                <g id="icon-trade" transform="translate(10.000000, 10.000000)">
+                    <g filter="url(#filter-1)" id="arrow">
+                        <g>
+                            <line x1="0.515188386" y1="2.5" x2="9.78857933" y2="2.5" id="Line-2" stroke="#979797"></line>
+                            <polyline id="Path-3" stroke="#979797" points="7.54678189 0 10.0802574 2.5 7.54678189 5"></polyline>
+                        </g>
+                    </g>
+                    <g filter="url(#filter-2)" id="arrow">
+                        <g transform="translate(0.000000, 5.000000)">
+                            <line x1="1.21142067" y1="2.5" x2="10.4848116" y2="2.5" id="Line-2" stroke="#979797"></line>
+                            <polyline id="Path-3" stroke="#979797" transform="translate(1.266738, 2.500000) scale(-1, 1) translate(-1.266738, -2.500000) " points="0 0 2.53347549 2.5 0 5"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

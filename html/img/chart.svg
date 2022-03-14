@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="524px" height="241px" viewBox="0 0 524 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graph@2x</title>
+    <defs>
+        <path d="M1.46194472,60.0502518 L29.6504559,21.7296968 L29.6504559,42.7316749 L35.3986445,76.6111832 C37.8516587,100.636362 40.9653947,112.648951 44.7398526,112.648951 C48.5143105,112.648951 56.3908676,112.648951 68.3695238,112.648951 L63.065402,86.6533865 L63.065402,50.3918933 L68.3695238,22.7257127 L85.0713791,0.498007968 L85.0713791,22.7257127 L101.869928,41.4923384 L114.416766,29.8804781 L128.754286,35.327927 L144.224762,50.3918933 L143.725714,197.211155 L1.46194472,197.211155 L0,60.0502518 L1.46194472,60.0502518 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="0.251311189%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#1764B6" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="index" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="index_pc" transform="translate(-390.000000, -315.000000)">
+            <g id="main_cont_left" transform="translate(360.000000, 205.500000)">
+                <g id="graph" transform="translate(30.000000, 110.000000)">
+                    <rect id="con3_graph_bg" fill="#FEFEFE" x="0" y="0" width="524.001905" height="240"></rect>
+                    <polyline id="last" stroke-opacity="0.852928322" stroke="#1764B6" points="0.998095238 147.820717 49.4057143 178.199203 67.8704762 139.603526 79.2838123 113.458167 100.807619 166.74801 112.059975 178.199203 153.960369 145.828685 159.695238 118.438247 164.186667 88.5577689 173.920133 70.5073618 230.56 88.5577689 230.56 106.891568 246.023607 166.74801 261.500952 194.540539 281.462857 166.74801 319.889524 118.438247 331.367619 78.12086 349.333333 51.5225255 376.690215 85.3592692 379.27619 88.5577689"></polyline>
+                    <line x1="109.291429" y1="93.0398406" x2="523.500952" y2="95.0318725" id="center_line" stroke="#1764B6" stroke-linecap="square" stroke-dasharray="4"></line>
+                    <g id="amount" transform="translate(0.000000, 78.000000)">
+                        <rect id="amount_bg" fill="#1764B6" x="0" y="0" width="119.771429" height="29.8804781" rx="10"></rect>
+                        <text id="총가-57,576,000" font-family="NotoSansKR-Medium, Noto Sans KR" font-size="14" font-weight="400" fill="#FEFEFE">
+                            <tspan x="8.85490476" y="21">총가 57,576,000</tspan>
+                        </text>
+                    </g>
+                    <g id="today_bg" opacity="0.336459847" transform="translate(379.276190, 30.788845)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <rect id="Rectangle" fill="url(#linearGradient-3)" mask="url(#mask-2)" x="0" y="-12.9482072" width="143.725714" height="210.159363"></rect>
+                    </g>
+                    <path d="M379.27619,90.0517928 L408.220952,52.5185414 L408.220952,71.2851671 L414.674835,106.404012 C416.429838,130.429191 420.433464,142.44178 426.685714,142.44178 C432.937964,142.44178 439.924631,142.44178 447.645714,142.44178 L442.341592,116.446215 L442.341592,80.184722 L447.645714,52.5185414 L464.34757,30.2908367 L464.34757,52.5185414 L470.502545,59.6733068 L481.146119,71.2851671 L493.692957,59.6733068 L508.030476,65.1207557 L523.001905,80.184722" id="today" stroke="#2D73BD" stroke-width="2"></path>
+                    <text id="9-AM" font-family="NotoSansKR-Medium, Noto Sans KR" font-size="12" font-weight="400" fill="#454545">
+                        <tspan x="365.79419" y="201.163347">9 AM</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
