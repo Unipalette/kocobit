@@ -1,2 +1,0 @@
-# kokobit
-kokobit web page
